@@ -1,0 +1,15 @@
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\bin\Debug\net6.0\ASM.exe
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\bin\Debug\net6.0\ASM.deps.json
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\bin\Debug\net6.0\ASM.runtimeconfig.json
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\bin\Debug\net6.0\ASM.dll
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\bin\Debug\net6.0\ASM.pdb
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\obj\Debug\net6.0\ASM.csproj.AssemblyReference.cache
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\obj\Debug\net6.0\ASM.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\obj\Debug\net6.0\ASM.AssemblyInfoInputs.cache
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\obj\Debug\net6.0\ASM.AssemblyInfo.cs
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\obj\Debug\net6.0\ASM.csproj.CoreCompileInputs.cache
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\obj\Debug\net6.0\ASM.dll
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\obj\Debug\net6.0\refint\ASM.dll
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\obj\Debug\net6.0\ASM.pdb
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\obj\Debug\net6.0\ASM.genruntimeconfig.cache
+D:\GreenWich\Avanced Programming\ASM\ASM\ASM\obj\Debug\net6.0\ref\ASM.dll
